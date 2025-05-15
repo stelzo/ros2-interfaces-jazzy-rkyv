@@ -31,7 +31,7 @@ license = "MIT"
 all-features = true
 
 [lib]
-name = "ros2_interfaces_jazzy"
+name = "ros2_interfaces_jazzy_rkyv"
 path = "src/lib.rs"
 
 [dependencies]
