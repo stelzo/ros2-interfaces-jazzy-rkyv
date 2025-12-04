@@ -1,7 +1,7 @@
 [package]
 edition = "2021"
 name = "ros2-interfaces-jazzy-rkyv"
-version = "0.0.4"
+version = "0.0.5"
 authors = [
   "Nisse Knudsen <nisse@make87.com>",
   "Phillip Thomas <phillip@make87.com>",
@@ -12,6 +12,7 @@ autobins = false
 autoexamples = false
 autotests = false
 autobenches = false
+repository = "https://github.com/stelzo/ros2-interfaces-jazzy-rkyv"
 description = "Structs for Messages and Services listed by ROS Index for ROS2 Jazzy with rkyv (de)serialization."
 homepage = "https://www.make87.com"
 readme = "README.md"
